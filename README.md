@@ -1,8 +1,6 @@
-# 📚 Java playlist for University/Diploma Students
+# 📚 Java playlist for University/Diploma Students by Phitron
 
 Welcome to the **Java playlist for University/Diploma Students** GitHub repository by **Phitron**! 🚀 This repository contains all the **class materials**, **source code examples**, **assignments**, and **resources** for the Java programming course.
-
----
 
 ## 📖 **Course Overview**
 This course is designed to introduce you to the fundamentals of Java programming, including:
@@ -14,8 +12,6 @@ This course is designed to introduce you to the fundamentals of Java programming
 - Collections Framework
 
 By the end of the course, you'll build a **mini-project** combining multiple Java concepts.
-
----
 
 ## 📂 **Repository Structure**
 
@@ -41,7 +37,6 @@ By the end of the course, you'll build a **mini-project** combining multiple Jav
 - **Assignments:** Practical exercises to reinforce learning.
 - **Project Folder:** Final project documentation and source code.
 
----
 
 ## 💻 **Setup Instructions**
 1. Install **Java Development Kit (JDK)**
@@ -59,7 +54,6 @@ By the end of the course, you'll build a **mini-project** combining multiple Jav
    ```
 7. Focus on understanding how the **Java Compiler (javac)** works and gain familiarity with the **terminal** workflow.
 
----
 
 ## 📅 **Course Modules**
 1. **Introduction to Java Programming**
@@ -81,13 +75,11 @@ By the end of the course, you'll build a **mini-project** combining multiple Jav
 17. **Advanced Collections Framework**
 18. **Final Review & Project**
 
----
 
 ## 📚 **Resources**
 - [Official Java Documentation](https://docs.oracle.com/javase/)
 - [Visual Studio Code Setup Guide](https://code.visualstudio.com/)
 - [Java Extension Pack for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
----
 
 ## 🤝 **Contribution Guidelines**
 - Follow proper naming conventions.
@@ -108,13 +100,11 @@ Example Branch Name:
 johnsmith-assignment-module1
 ```
 
----
 
 ## 🧑‍💻 **Instructor Contact**
 - **Instructor Name:** [Md. Fatin Shadab Turja](https://github.com/FatinShadab)
 - **Email:** fatinshadab123@gmail.com
 
----
 
 ## ⭐ **Star This Repository!**
 If you find this repository helpful, don't forget to **star** it!
