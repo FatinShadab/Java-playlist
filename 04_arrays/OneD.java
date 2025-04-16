@@ -48,11 +48,12 @@ public class OneD {
          * go to next iteration         | break
          * 
          */
-        
+
         int searchValue = 22;
         boolean found = false;
+        int i = 0;
 
-        for (int i = 0; i < numbers.length; i++) {
+        for (i = 0; i < numbers.length; i++) {
             if (numbers[i] == searchValue) {
                 found = true;
                 break;
@@ -60,7 +61,7 @@ public class OneD {
         }
 
         if (found) {
-            System.out.println("Value " + searchValue + " found in the array.");
+            System.out.println("Value " + searchValue + " found in the array. at index " + i);
         } else {
             System.out.println("Value " + searchValue + " not found in the array.");
         }
